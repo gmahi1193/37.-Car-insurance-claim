@@ -1,0 +1,1 @@
+This project is about classification which gives idea about SMOTE and its application.
